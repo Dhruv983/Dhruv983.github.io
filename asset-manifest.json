@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dhruv983.github.io/static/css/main.f2b24f0b.css",
-    "main.js": "/dhruv983.github.io/static/js/main.721bf1f1.js",
-    "static/media/profile.jpg": "/dhruv983.github.io/static/media/profile.6ec04fae0f138c061956.jpg",
-    "static/media/resume.pdf": "/dhruv983.github.io/static/media/resume.ccc614445738132ab3c1.pdf",
-    "static/media/location-icon.png": "/dhruv983.github.io/static/media/location-icon.baa3a0796638b2746985.png",
-    "index.html": "/dhruv983.github.io/index.html",
-    "main.f2b24f0b.css.map": "/dhruv983.github.io/static/css/main.f2b24f0b.css.map",
-    "main.721bf1f1.js.map": "/dhruv983.github.io/static/js/main.721bf1f1.js.map"
+    "main.css": "/Dhruv983.github.io/static/css/main.f2b24f0b.css",
+    "main.js": "/Dhruv983.github.io/static/js/main.685fc27e.js",
+    "static/media/profile.jpg": "/Dhruv983.github.io/static/media/profile.6ec04fae0f138c061956.jpg",
+    "static/media/resume.pdf": "/Dhruv983.github.io/static/media/resume.ccc614445738132ab3c1.pdf",
+    "static/media/location-icon.png": "/Dhruv983.github.io/static/media/location-icon.baa3a0796638b2746985.png",
+    "index.html": "/Dhruv983.github.io/index.html",
+    "main.f2b24f0b.css.map": "/Dhruv983.github.io/static/css/main.f2b24f0b.css.map",
+    "main.685fc27e.js.map": "/Dhruv983.github.io/static/js/main.685fc27e.js.map"
   },
   "entrypoints": [
     "static/css/main.f2b24f0b.css",
-    "static/js/main.721bf1f1.js"
+    "static/js/main.685fc27e.js"
   ]
 }
